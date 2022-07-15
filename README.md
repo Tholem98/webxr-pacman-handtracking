@@ -20,4 +20,4 @@ To move Pacman up/down/left/right, you need to touch your phone's screen at cert
 
 ---
 
-Inspired by [this repo](https://github.com/butchler/Pacman-3D).
+Inspired by [this repo](https://github.com/charliegerard/webxr-pacman). So I take it with a fork, I don't know if it was right
